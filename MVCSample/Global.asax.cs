@@ -12,7 +12,7 @@ namespace MVCSample
     {
         protected void Application_Start()
         {
-//test22
+//test
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
